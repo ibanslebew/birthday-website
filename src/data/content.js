@@ -41,9 +41,9 @@ Semoga kita masih punya banyak ulang tahun lagi buat dirayain bareng 🫶🏻�
 
 
     songs: [
-        { title: "Everything U Are", artist: "Nama Penyanyi", src: "/assets/music/everythinguare.mpeg" },
-        { title: "Kita Lewati Berdua", artist: "Nama Penyanyi", src: "/assets/music/KitaLewatiBerdua.mpeg" },
-        { title: "Dunia Yang Nanti", artist: "Nama Penyanyi", src: "/assets/music/DuniaYangNanti.mpeg" },
+        { title: "Everything U Are", artist: "Nama Penyanyi", src: "/assets/music/everythinguare.mp3" },
+        { title: "Kita Lewati Berdua", artist: "Nama Penyanyi", src: "/assets/music/KitaLewatiBerdua.mp3" },
+        { title: "Dunia Yang Nanti", artist: "Nama Penyanyi", src: "/assets/music/DuniaYangNanti.mp3" },
     ],
 
     gratitudeNotes: [
