@@ -29,22 +29,21 @@ I love you, Lia.
 Semoga kita masih punya banyak ulang tahun lagi buat dirayain bareng 🫶🏻🎂🤍
 `,
 
-    backgroundMusic: "/src/assets/music/background.mp3",
-    clickSound: "/src/assets/music/click.mp3",
+    backgroundMusic: "/assets/music/background.mp3",
 
     photos: [
-        { src: "/src/assets/photos/poto1.jpg", caption: "Momen pertama kita" },
-        { src: "/src/assets/photos/poto2.jpg", caption: "Foto favorite aku" },
-        { src: "/src/assets/photos/poto3.jpg", caption: "Ini lucu sihh" },
-        { src: "/src/assets/photos/poto4.jpg", caption: "Mirorrr" },
-        { src: "/src/assets/photos/poto5.jpg", caption: "indomaret kala ituuu" },
+        { src: "/assets/photos/poto1.jpg", caption: "Momen pertama kita" },
+        { src: "/assets/photos/poto2.jpg", caption: "Foto favorite aku" },
+        { src: "/assets/photos/poto3.jpg", caption: "Ini lucu sihh" },
+        { src: "/assets/photos/poto4.jpg", caption: "Mirorrr" },
+        { src: "/assets/photos/poto5.jpg", caption: "indomaret kala ituuu" },
     ],
 
 
     songs: [
-        { title: "Everything U Are", artist: "Nama Penyanyi", src: "/src/assets/music/everythinguare.mpeg" },
-        { title: "Kita Lewati Berdua", artist: "Nama Penyanyi", src: "/src/assets/music/KitaLewatiBerdua.mpeg" },
-        { title: "Dunia Yang Nanti", artist: "Nama Penyanyi", src: "/src/assets/music/DuniaYangNanti.mpeg" },
+        { title: "Everything U Are", artist: "Nama Penyanyi", src: "/assets/music/everythinguare.mpeg" },
+        { title: "Kita Lewati Berdua", artist: "Nama Penyanyi", src: "/assets/music/KitaLewatiBerdua.mpeg" },
+        { title: "Dunia Yang Nanti", artist: "Nama Penyanyi", src: "/assets/music/DuniaYangNanti.mpeg" },
     ],
 
     gratitudeNotes: [
